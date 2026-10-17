@@ -1,5 +1,14 @@
 /* Общие настройки */
-* {
+* 
+:root {
+  --primary-color: #2a52be;
+  --text-color: #333333;
+  --bg-color: #f9f9f9;
+  --font-main: 'Inter', sans-serif;
+  --container-width: 1200px;
+}
+
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
